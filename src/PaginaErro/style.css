@@ -1,0 +1,91 @@
+.header {
+    position: relative;
+    background-color: chocolate;
+    top: 10px;
+}
+
+.sobre {
+    position: absolute;
+    left: 1200px;
+    
+}
+
+.telefone{
+    position: absolute;
+    left: 1200px;
+    top: 40px;
+    
+}
+
+.loc {
+
+    position: absolute;
+    left: 1200px;
+    top: 80px;
+    
+}
+
+.ajuda{
+
+    position: absolute;
+    left: 1200px;
+    top: 120px;
+   
+}
+
+.imagem{
+    position: absolute;
+    top: 290px;
+    left: 350px;
+}
+
+.texto{
+    font-size: 30px;
+    position: absolute;
+    left: 342px;
+    top:227px ;
+}
+
+.img1{
+position: absolute;
+top: 850px;
+
+}
+
+.img2{
+
+    position: absolute;
+    top: 880px;
+    left: 0px;
+}
+
+.img3{
+
+    position: absolute;
+    top: 910px;
+    left: 0px;
+
+
+}
+
+.whats {
+    position: absolute;
+    top: 852px;
+    left: 32px;
+    color: green;
+}
+
+.instagram {
+    position: absolute;
+    top: 912px;
+    left: 32px;
+    color: rgb(197, 57, 57);;
+}
+
+.facebook {
+    position: absolute;
+    top: 882px;
+    left: 32px;
+    color: blue;
+}
+

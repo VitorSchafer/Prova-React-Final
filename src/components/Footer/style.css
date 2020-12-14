@@ -1,0 +1,42 @@
+.img1{
+    position: absolute;
+    top: 850px;
+    
+    }
+    
+    .img2{
+    
+        position: absolute;
+        top: 880px;
+        left: 0px;
+    }
+    
+    .img3{
+    
+        position: absolute;
+        top: 910px;
+        left: 0px;
+    
+    
+    }
+    
+    .whats {
+        position: absolute;
+        top: 852px;
+        left: 32px;
+        color: green;
+    }
+    
+    .instagram {
+        position: absolute;
+        top: 912px;
+        left: 32px;
+        color: rgb(197, 57, 57);;
+    }
+    
+    .facebook {
+        position: absolute;
+        top: 882px;
+        left: 32px;
+        color: blue;
+    }

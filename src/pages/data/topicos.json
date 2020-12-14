@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Ambiente",
+        "qualidade": "CLimatizado e aconchegante."
+    },
+    {
+        "nome": "Horario",
+        "qualidade": "Aberto até as 23:00h."
+    },
+    {
+        "nome": "Segurança",
+        "qualidade": "Ambiente monitorado e seguro."
+    }
+]
