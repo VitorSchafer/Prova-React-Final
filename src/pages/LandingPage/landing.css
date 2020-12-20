@@ -10,6 +10,15 @@
     
 }
 
+.topicos{
+    position: absolute;
+    top: 800px;
+    left: 170px;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
 .telefone{
     position: absolute;
     left: 1200px;
