@@ -8,7 +8,7 @@ import listTopicos from '../data/topicos.json'
 
 function LandingPage(){
 
-    const [topicos, setTopicos] = useState(listTopicos);
+    const [topicos] = useState(listTopicos);
 
     return (
     <div>
